@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote fetch="https://android.googlesource.com/" name="aosp"/>
+<remote fetch="https://aosp.tuna.tsinghua.edu.cn/" name="aosp"/>
 <remote fetch="https://github.com/rockchip-android/" name="rk"/>
 <remote fetch="https://github.com/radxa/" name="radxa"/>
 
